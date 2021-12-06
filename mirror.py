@@ -4,7 +4,7 @@ Could be used as a simple mirror when no real one is available
 '''
 import cv2
 
-name = "My Mirror (C) 2020 Andrea6128"
+name = "My Mirror (C) 2020 ELS"
 cv2.namedWindow(name, cv2.WINDOW_NORMAL)
 
 cap = cv2.VideoCapture(0)
